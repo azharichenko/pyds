@@ -1,5 +1,5 @@
 # pyds
-An project implementing data science and machine learning algorithms using Python and extensions in C++
+A project implementing data science and machine learning algorithms using Python and extensions in C++
 
 
 ## Goals
